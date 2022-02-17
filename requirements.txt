@@ -1,0 +1,17 @@
+geopandas
+pandas
+numpy
+pyrosm
+matplotlib
+gpxpy
+geopy.geocoders
+os
+tqdm
+movingpandas
+datetime
+contextily
+sklearn.cluster
+json
+folium
+osm2geojson
+seaborn
