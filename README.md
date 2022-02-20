@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 * In the main folder you can find the final report and the requirements needed to execute the notebooks
 * `code` folder:
-    * `stravaAnalytics` contains all the implemented analysis; given its length, it's been splitted in `stravaLongRideFocus`, `stravaMapping`, `stravaOSM` and `stravaEffortsTimeAnalysis`, in order;
+    * `stravaAnalytics` contains all the implemented analysis; given its length, it's been splitted in `stravaLongRideFocus`, `stravaMapping`, `stravaOSM` and `stravaEffortsTimeAnalysis`, in order; every notebook is available in .html format too;
     * `utils` set of functions and variables used for the analysis
 * `code/data` folder: contains Strava activities in `.gpx` format and VO2Max data in `.json` format
 * `images` folder: contains some of the images produced in the notebook
